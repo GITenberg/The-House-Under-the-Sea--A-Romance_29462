@@ -1,0 +1,31 @@
+_repo: The-House-Under-the-Sea--A-Romance_29462
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29462-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pemberton, Max
+    alias: Pemberton, Sir Max
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '32059'
+    url: http://www.gutenberg.org/2009/agents/32059
+    wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
+description: ''
+gutenberg_issued: '2009-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29462'
+  lccn: 02021098
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands of the Pacific -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Ship captains -- Fiction'
+title: 'The House Under the Sea: A Romance'
+url: http://www.gutenberg.org/ebooks/29462
