@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32059
     wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29462#The-House-Under-the-Sea--A-Romance
 gutenberg_issued: '2009-07-20'
 gutenberg_type: Text
 identifiers:
