@@ -19,6 +19,7 @@ Author: Sir Max Pemberton
 
 
 Release Date: July 20, 2009  [eBook #29462]
+Most recently updated: November 9, 2014
 
 Language: English
 
@@ -604,7 +605,7 @@ sail the smartest schooner-yacht that ever flew the ensign----"
 
 The boy looked up at me and admitted frankly that he knew something.
 
-"They said the young lady owned the Manhattan, sir. I never asked much,
+"They said the young lady owned the Manhattan, sir. I never asked much
 about it. The men were fond of her, I believe."
 
 "Adored her, lad. She was the daughter of Rupert Bellenden, who made a
@@ -707,7 +708,7 @@ sure as thunder; but it's lonely for women-kind, and your mistress, she
 don't take to it kindly. Not that she's complaining, or anything of
 that sort. A lady who has rings for her fingers and bells for her toes,
 and all real precious, same as any duchess might wear, she don't
-complain long Why, my guv'nor could make his very teeth out of diamonds
+complain long. Why, my guv'nor could make his very teeth out of diamonds
 and not miss 'em, come to that! But his missus is always plaguing him
 to take her to Europe, and that game. As if he don't want a wife in his
 own home, and not in another man's, which is sense, Mister Begg, though
@@ -1188,7 +1189,7 @@ talk.
 You couldn't make the reef if you tried, and if you could, you'd find
 none living. This sea would best the biggest boat that ever a ship
 carried--it will blow harder in an hour, and what then? We've friends
-of our own to serve, and the door that Providence opens we've, no right
+of our own to serve, and the door that Providence opens we've no right
 to shut. I say nothing against humanity, Captain Begg, but I wouldn't
 hunt the dead in the water when I could help the living ashore."
 
@@ -2461,7 +2462,7 @@ throats for nothing and thought themselves well paid--no knowledge,
 not the smallest, of any way of escape--food short and likely to be
 shorter. Friends we had, true friends. Night and morning Clair-de-Lune
 and the little girls found their way up to us with bread and meat and
-the news that was passing. It was on the fifth thy that they came no
+the news that was passing. It was on the fifth day that they came no
 more, and I, at least, knew that they would never come again.
 
 "Lads," I said, "one of two things has happened. Either they've been
@@ -2475,7 +2476,7 @@ They turned it over in their minds, and Dolly Venn spoke next.
 
 "Last night in my watch I heard a bell ringing, sir. At first I thought
 it was fancy--the sea beating on the rocks or the wind moaning in the
-hills; but I got the ladder and went down the bill, and then I heard it
+hills; but I got the ladder and went down the hill, and then I heard it
 distinctly, and saw lights burning brightly on the reef far out to the
 north. There were boats passing, I'm sure, and what was so wonderful
 that I didn't like to speak about it, the whole of the sea about the
@@ -3559,7 +3560,7 @@ The others said, "Aye, aye, lead on and we follow." Desperation was
 their lot now; the madman's haste, the driven man's hope. There, in
 that fearful hollow, lives were ebbing away like the sea on a shallow
 beach. They fought for air, for breath, for light, for life. I can see
-Peter Thigh to this day as he staggers to his feet and cries, wildly:
+Peter Bligh to this day as he staggers to his feet and cries, wildly:
 
 "The mouth of blazes would be a Sunday parlour to this! Lead on,
 doctor, I am dying here!"
@@ -3589,7 +3590,7 @@ and so still and quiet it seemed, such a pretty lake among the hills,
 that no man would have guessed the terror below its waters or named the
 secret of it. Nevertheless, it recalled to me our first night's work,
 and how little we could hope from any man in Czerny's house; and this I
-had in my mind when, the doctor halted at last before the mouth of an
+had in my mind when the doctor halted at last before the mouth of an
 open pit at the very foot of the giant headland. He was blown with
 running, and the sweat dropped from his forehead like water. The place
 itself was the most awesome I have ever entered. On either hand, so
@@ -3660,7 +3661,7 @@ thought it might be useful when he turned nasty. It is going to be
 that, as you can see. Follow through to the end of it, and you are in
 Czerny's house. Will you go there or hold back? It's for you to say."
 
-I filled my pipe, as Peter had clone, and, breathing free for the first
+I filled my pipe, as Peter had done, and, breathing free for the first
 time for some hours, I tried to speak up for the others.
 
 "A sailor's head tells me that there is a road from here to the reef;
@@ -3846,7 +3847,7 @@ AN INTERLUDE, DURING WHICH WE READ IN RUTH BELLENDEN'S DIARY AGAIN *
 
    * The editor has thought it well to give at this point the
      above extract from Ruth Bellenden's diary, as permitting some
-     insight Into the events which transpired on Ken's Island after
+     insight into the events which transpired on Ken's Island after
      Jasper Begg's discovery and Edmond Czerny's return.
 
 May 5TH.--My message to the sea has been heard. Jasper Begg is on Ken's
@@ -3931,7 +3932,7 @@ tunnels in the solid rock and covered over with strongest glasses which
 the sea cannot break. Imagine countless electric lamps lighting this
 labyrinth until it seems sometimes like a fairy palace. Say that your
 drawing-room is a cave, whose walls are of jewels and whose floor is of
-jasper. Night and day yon hear the sea, the moaning winds, the breaking
+jasper. Night and day you hear the sea, the moaning winds, the breaking
 billows. It is another world here, like to nothing that any man has
 seen or ever will see. The people of a city could live in this place
 and yet leave room for others. My own rooms are the first you come to;
@@ -4045,7 +4046,7 @@ him yet." And this the boy himself believed.
 
 "It's only a cut," said he, "and if there's no poison, he'll be well
 enough in a week. But he won't be able to stand, that's certain. I'd
-give ten pounds for an antiseptic, I realty would!"
+give ten pounds for an antiseptic, I really would!"
 
 I knew what he meant all right; but the others didn't, and Peter Bligh,
 he must come in with his foolishness.
@@ -4410,7 +4411,7 @@ as a girl she had the laughter and the spirits of ten.
 
 "What shall we do, Jasper?" she kept on saying, "what shall we do next?
 Oh, to think that it's you, to think that it is Jasper Begg in this
-strange housel" she kept crying; "and no way out of it, no safety
+strange house!" she kept crying; "and no way out of it, no safety
 anywhere! Jasper, what shall we do--what shall we do next?"
 
 "We shall tell your husband, Miss Ruth," said I, "and leave the last
@@ -4420,7 +4421,7 @@ I'll not believe it until I hear it. The lowest in humanity would never
 do such a thing! Aye, you are judging him beyond ordinary when you
 believe it. So much I make bold to say!"
 
-I turned to the fire, and began to warm my fingers at it, while he, for
+I turned to the fire, and began to warm my fingers at it, while she, for
 her part, drew up one of the silk-covered chairs, and sat with her
 pretty head resting in a tired way between her little hands. All our
 talk up to this time had been broken fragments; but this I judged the
@@ -4920,7 +4921,7 @@ It was an iron door, opening inward to a small apartment cut out of the
 solid rock. For a while I could see nothing when I entered the little
 cavern--it laid bare; but, becoming used to the dim light presently, I
 took a few steps forward, and looking up I saw a rocky chimney and an
-orifice far up and the stars glimmering in the grey--blue sky above me.
+orifice far up and the stars glimmering in the grey-blue sky above me.
 This, then, was the second gate to Czerny's house, I said; the seagate
 by which his men passed in. Here, as yonder where Miss Ruth's apartment
 lay, the reef lifted itself above the highest tides; here was the gate
@@ -6903,9 +6904,9 @@ their own sakes. If they so much as look false, then shoot them down.
 It is in my mind, Captain Nepeen," said I, "that we'll have need of
 such a man as you, and three good fellows with you, at the lesser gate.
 You should find cover on the rocks while we hold the near sea for you.
-if Czerny gets a foothold there and beats that door in, I need not tell
+If Czerny gets a foothold there and beats that door in, I need not tell
 you how it will go with us. For the rest, I leave two men at the
-stairs-head and two in this hail to be at Miss Ruth's call. Peter Bligh
+stairs-head and two in this hall to be at Miss Ruth's call. Peter Bligh
 and Dolly Venn go up with me to work the gun. If they rush it--well,
 twenty there won't keep them back with rifles. But I count upon the
 coward's part, and I say that a man will think twice about dying for
@@ -7161,7 +7162,7 @@ how I held him, how near his eyes seemed to mine, what gasping sounds
 he uttered, how his feet fought for foothold on the rock, how his hand
 felt for the knife at his girdle! And I had him always, had him surely;
 and seeking to force himself upward, the slippery rock gave him no
-foothold, and he slipped at last froth my very fingers, and some great
+foothold, and he slipped at last from my very fingers, and some great
 fish, hidden from me, drew him down to the water and I saw the waves
 close above his mouth. Henceforth there were but three men left at the
 gate of Czerny's house. They were three who, even at that time, could
@@ -7235,7 +7236,7 @@ this, you may imagine, was the most surprising event of all that
 eventful night. So quickly did it come upon us, so little did we look
 for it, that when Kess Denton, the yellow man, stood at the open gate
 and uttered a loud and piercing yell of defiance, not one among us
-could lilt a rifle, not one thought of plan or action. There the fellow
+could lift a rifle, not one thought of plan or action. There the fellow
 was, laughing like a maniac. Why he came, whence he came, no man could
 tell. But he leaped into the seas and the night engulfed him, and only
 his mocking laugh told us that he lived.
